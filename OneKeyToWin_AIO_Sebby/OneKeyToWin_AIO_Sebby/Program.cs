@@ -24,7 +24,7 @@ namespace OneKeyToWin_AIO_Sebby
 
         public static Spell Q, W, E, R, Q1, W1, E1, R1;
 
-        private static string OktNews = "OKTW.ME";
+        private static string OktNews = "visit WWW.OKTW.ME AIO 2.0 SOON";
 
         public static AioMode AioModeSet = AioMode.All;
         public static Menu Config;
